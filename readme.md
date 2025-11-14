@@ -5,7 +5,9 @@
 
 A full-stack real-time delivery and order management system built with **React, Node.js, Express, MongoDB, and Socket.IO**, deployed on **AWS EC2** using Docker containers.
 
-![Project Banner](<img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />)
+![Project Banner]
+
+<img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />
 
 ## 📋 Table of Contents
 
@@ -247,14 +249,17 @@ docker-compose up -d
 
 ## 🖼️ Screenshots
 
-* `<img width="717" height="786" alt="image" src="https://github.com/user-attachments/assets/0e836f04-1020-4b89-a3cf-c59cd3f2a696" />
-`
-* `<img width="1919" height="763" alt="image" src="https://github.com/user-attachments/assets/083aa80b-90bb-490b-b84f-1b41db838319" />
-`
-* `<img width="1889" height="925" alt="image" src="https://github.com/user-attachments/assets/3e7c48d8-e301-434c-85d4-3a11645d098e" />
-`
-* `<img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />
-`
+### Customer Dashboard
+<img width="717" alt="customer-dashboard" src="https://github.com/user-attachments/assets/0e836f04-1020-4b89-a3cf-c59cd3f2a696" />
+
+### Delivery Partner Dashboard
+<img width="1919" alt="delivery-dashboard" src="https://github.com/user-attachments/assets/083aa80b-90bb-490b-b84f-1b41db838319" />
+
+### Admin Dashboard
+<img width="1889" alt="admin-dashboard" src="https://github.com/user-attachments/assets/3e7c48d8-e301-434c-85d4-3a11645d098e" />
+
+### Home Page
+<img width="1904" alt="homepage" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />
 
 ---
 
