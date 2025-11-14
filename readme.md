@@ -5,7 +5,7 @@
 
 A full-stack real-time delivery and order management system built with **React, Node.js, Express, MongoDB, and Socket.IO**, deployed on **AWS EC2** using Docker containers.
 
-![Project Banner]
+**Project Banner**
 
 <img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />
 
@@ -45,6 +45,14 @@ A production-ready **quick commerce application** enabling real-time order track
 
 Project demo : http://35.175.180.138
 
+---
+
+## 🎥 Demo Video
+
+[Watch Demo](https://drive.google.com/file/d/1n5IFsciuKdo3UZ4LhgW5j6OJwm2oxWNf/view?usp=sharing)
+
+---
+
 ## 🌐 Live Demo
 
 | Service | URL | Description |
@@ -59,7 +67,7 @@ Project demo : http://35.175.180.138
 **Customer Account:**
 ```
 
-Email: [customer1@gmail.com](mailto:customer1@gmail.com)
+Email: customer1@gmail.com
 Password: customer123
 
 ```
@@ -67,7 +75,7 @@ Password: customer123
 **Delivery Partner Account:**
 ```
 
-Email: [delivery1@gmail.com](mailto:delivery1@gmail.com)
+Email: delivery1@gmail.com
 Password: delivery123
 
 ```
@@ -75,7 +83,7 @@ Password: delivery123
 **Admin Account:**
 ```
 
-Email: [admin@gmail.com](mailto:admin@gmail.com)
+Email: admin@gmail.com
 Password: admin123
 
 ```
@@ -83,12 +91,12 @@ Password: admin123
 ---
 
 ## 🏗️ System Architecture
-```
+
 
 <img width="1299" height="452" alt="diagram-export-11-14-2025-4_45_47-PM" src="https://github.com/user-attachments/assets/252d9824-7c3d-464d-8e96-453247f05118" />
 
 
-```
+
 
 **Flow**:
 1. Frontend served via Nginx
@@ -260,12 +268,6 @@ docker-compose up -d
 
 ### Home Page
 <img width="1904" alt="homepage" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />
-
----
-
-## 🎥 Demo Video
-
-[Watch Demo](https://drive.google.com/file/d/1n5IFsciuKdo3UZ4LhgW5j6OJwm2oxWNf/view?usp=sharing)
 
 ---
 
