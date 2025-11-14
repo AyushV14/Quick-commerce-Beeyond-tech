@@ -43,7 +43,7 @@ services:
       context: ./frontend
       dockerfile: Dockerfile
       args:
-        VITE_API_URL: http://35.175.180.138/api
+        VITE_API_URL: ${FRONTEND_API_URL:-http://35.175.180.138/api}
     container_name: quickcommerce-frontend
     restart: always
     ports:
