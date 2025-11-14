@@ -5,7 +5,7 @@
 
 A full-stack real-time delivery and order management system built with **React, Node.js, Express, MongoDB, and Socket.IO**, deployed on **AWS EC2** using Docker containers.
 
-![Project Banner](./screenshots/banner.png)
+![Project Banner](<img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />)
 
 ## 📋 Table of Contents
 
@@ -83,16 +83,8 @@ Password: admin123
 ## 🏗️ System Architecture
 ```
 
-Client Browser (React SPA)
-│
-▼
-Nginx Reverse Proxy
-│
-┌───────┴────────┐
-│ Frontend (React) │
-│ Backend (Node.js + Socket.IO) │
-│ MongoDB Container │
-└─────────────────┘
+<img width="1299" height="452" alt="diagram-export-11-14-2025-4_45_47-PM" src="https://github.com/user-attachments/assets/252d9824-7c3d-464d-8e96-453247f05118" />
+
 
 ```
 
@@ -255,10 +247,14 @@ docker-compose up -d
 
 ## 🖼️ Screenshots
 
-* `screenshots/login.png`
-* `screenshots/customer-dashboard.png`
-* `screenshots/delivery-dashboard.png`
-* `screenshots/admin-dashboard.png`
+* `<img width="717" height="786" alt="image" src="https://github.com/user-attachments/assets/0e836f04-1020-4b89-a3cf-c59cd3f2a696" />
+`
+* `<img width="1919" height="763" alt="image" src="https://github.com/user-attachments/assets/083aa80b-90bb-490b-b84f-1b41db838319" />
+`
+* `<img width="1889" height="925" alt="image" src="https://github.com/user-attachments/assets/3e7c48d8-e301-434c-85d4-3a11645d098e" />
+`
+* `<img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/05503250-5a7b-4846-ad78-b4e34b100a7e" />
+`
 
 ---
 
